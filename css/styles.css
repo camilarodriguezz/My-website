@@ -1,0 +1,177 @@
+/******** Fonts
+
+font-family: 'Cormorant', serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Handlee', cursive;
+font-family: 'Merienda', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'Arapey', serif;
+font-family: 'Alice', serif;
+font-family: 'Bad Script', cursive;
+
+*******/
+
+/******** Fonts
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/icongeek26" title="Icongeek26">Icongeek26</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+*******/
+
+body {
+  background-color:  #dcffca1f;
+  color: #40514E;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+hr {
+  border: dotted #d79abc8a 5px;
+  border-bottom: none;
+  width: 8%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background: linear-gradient(rgba(215, 154, 188, 1), rgba(221, 255, 204, 0.58));
+  height: 443px;
+  width: 100%;
+  background-color: #d79abc52;
+  text-align: center;
+  position: relative;
+}
+
+.mariposa {
+  width: 130px;
+  position: absolute;
+  right: 20%;
+  top: 80px;
+}
+
+.f1 {
+  color: #942f2fba;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 3.125rem;
+  margin: 10px auto 0 auto;
+  position: absolute;
+  top: 160px;
+  left: 30%;
+  right: 30%;
+}
+
+.f2 {
+  color: #942f2fba;
+  font-family: 'Handlee', cursive;
+  font-size: 1.5625rem;
+  font-weight: bold;
+  position: absolute;
+  top: 220px;
+  left: 30%;
+  right: 30%;
+}
+
+h2 {
+  color: #096d29;
+  font-family: 'Alice', serif;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #8e1f3de8;
+  font-family: 'Cormorant', serif;
+  font-size: 2rem;
+}
+
+p {
+  font-family: 'Arapey', serif;
+  font-size: 1.25rem;
+  line-height: 2;
+}
+
+.dandelion {
+position: absolute;
+top: auto;
+bottom: 0;
+left: 20%;
+}
+
+.middle-container {
+  background-color: #dcffca1f;
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+}
+
+.profile-pic {
+  height: 200px;
+  border-radius: 50%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skills-pic1 {
+  width: 25%;
+  float: left;
+  margin-right: 10px;
+}
+
+.skills-pic2 {
+  width: 25%;
+  float: right;
+  margin-left: 10px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: linear-gradient(rgba(215, 154, 188, 1), rgba(144, 150, 236, 1));
+  border-radius: 8;
+  font-family: 'Alice', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(rgba(144, 150, 236, 1), rgba(215, 154, 188, 1));
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background: linear-gradient(rgba(221, 255, 204, 0.58), rgba(215, 154, 188, 1));
+  text-align: center;
+  position: relative;
+  padding: 30px 0 10px;
+}
+
+.linkedin {
+  background-color: white;
+  height: 40px;
+}
+
+.linkedin:hover {
+  height: 50px;
+}
+
+.copyright {
+  color: white;
+  font-size: 1.1rem;
+  padding: 20px 0;
+}
